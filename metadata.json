@@ -1,0 +1,6 @@
+{
+  "name": "Image Editor & Splitter",
+  "description": "Powerful image editor to crop, rotate, filter, adjust lighting, and interactively split images with precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
